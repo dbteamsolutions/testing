@@ -1,7 +1,13 @@
 body {
+
     color:deeppink;
     text-align: center;
     font-family: "Courier";
+
+    color:green;
+    text-align: center;
+    font-family: "Arial";
+
 }
 
 #containter {
@@ -14,4 +20,14 @@ body {
 
 #container h1 {
     font-size: 15px;
+<<<<<<< HEAD
+=======
+}
+
+#cabecera {
+    background: #33A;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+>>>>>>> a4c4df12e67e5263e3b49d2f2d3db631da06ba30
 }
