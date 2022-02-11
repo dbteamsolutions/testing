@@ -1,5 +1,11 @@
 Very important information.
+
 More very important information.
 
+<<<<<<< HEAD
 
 Hola Carlos
+=======
+Added more very important information in main.
+
+>>>>>>> 0a21fc6bf1788395907df290175ab712a169154d
