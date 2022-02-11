@@ -4,4 +4,8 @@ Daniel Ramirez tiene 22 años y nació en Guatemala.
 
 Mañana nos enfocaremos en su vida laboral.
 
+<<<<<<< HEAD
+holla guate
+=======
 Nueva linea para probar pull request.
+>>>>>>> 0a21fc6bf1788395907df290175ab712a169154d
